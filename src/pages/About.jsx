@@ -54,7 +54,7 @@ const About = () => {
     {
       name: "Onkar Dighe",
       role: "Chief Technology Officer",
-      image: "./src/pages/onwer2.jpg",
+      image: "./onwer2.jpg",
       description: "Tech innovator specializing in AI and automation"
     },
   ];
