@@ -48,13 +48,13 @@ const About = () => {
     {
       name: "Amol Kotkar",
       role: "CEO & Founder",
-      image: "/src/pages/onwer1.jpg",
+      image: "./src/pages/onwer1.jpg",
       description: "Visionary leader with 15+ years in fintech"
     },
     {
       name: "Onkar Dighe",
       role: "Chief Technology Officer",
-      image: "/src/pages/onwer2.jpg",
+      image: "./src/pages/onwer2.jpg",
       description: "Tech innovator specializing in AI and automation"
     },
   ];
